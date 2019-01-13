@@ -1,0 +1,57 @@
+div#body {
+            color: #FFFFFF;
+            font-family: Arial, Times New Roman;
+            font-size: 20px;
+        
+           
+}
+div#container {
+            
+            color: #FFF;
+            width: 100%;
+            height: 100%;
+}
+
+
+div#menu {
+    background-color: rgba(100, 192, 129, 0.8);
+            font-size: 20px;
+            float: left;
+            width: 10%;
+            height: 90%;
+}
+
+div#content {
+            color:#FFF;
+            background-color: hsl(0, 0%, 100%);
+            font-size: 30px;
+            float: left;
+            width: 80%;
+            height: 90%;
+          
+}
+ 
+div#footer {
+            background-color: rgb(38, 38, 38);
+            text-align: center; 
+            float: left;       
+            height: 10%;
+            width: 100%;
+            color: rgb(153, 153, 153);
+}
+
+div#sidbar {
+    background-color: rgba(230, 230, 230, 0.8); 
+    float: right;
+    height: 90%;
+    width: 10%;
+}
+
+div#table {
+    width: 1000px; 
+    margin: auto; 
+   }
+   td {
+    text-align: center; 
+   }
+
